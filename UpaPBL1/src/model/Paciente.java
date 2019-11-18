@@ -1,4 +1,4 @@
-package model;
+p ackage model;
 
 public class Paciente {
 
@@ -38,7 +38,7 @@ public class Paciente {
 
 	/**
 	 * Retorna um inteiro contendo a prioridade do paciente.
-	 * É dividida em três tipos: alta, média e baixa.
+	 * É dividida em cico tipos: alta, não urgente, pouco urgente, urgente, muito urgente, emergência.
 	 * @return prioridade
 	 */
 	
