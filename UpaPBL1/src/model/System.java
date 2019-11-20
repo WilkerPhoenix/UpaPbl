@@ -9,10 +9,9 @@ public class System {
 	MyLinkedList listaDeMedico = new MyLinkedList();
 	MyLinkedList listaDePaciente = new MyLinkedList();
 
-
-
 	public void add(Medico m) {
 		listaDeMedico.add(m);
+
 	}
 
 }

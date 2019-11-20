@@ -8,7 +8,7 @@ public class MyLinkedList {
 
 	int size = 0;
 
-	Node getNode(int index) {
+	public Node getNode(int index) {
 		if (index >= 0 && index < size) {
 			Node n = head;
 

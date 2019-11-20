@@ -1,4 +1,4 @@
-p ackage model;
+package model;
 
 public class Paciente {
 
